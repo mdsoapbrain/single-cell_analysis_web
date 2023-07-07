@@ -1,0 +1,13 @@
+scanpy
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+natsort
+networkx
+h5py
+streamlit==1.18.1
+altair
+watchdog
