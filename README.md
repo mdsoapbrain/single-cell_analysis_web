@@ -11,3 +11,7 @@ This project utilizes Python and several key libraries for single-cell RNA-Seq d
 ```bash
 conda create -n single_cell_analysis python=3.8
 conda activate single_cell_analysis
+
+3. Install packages:
+```bash
+pip install -r requirements.txt
